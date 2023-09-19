@@ -1,0 +1,40 @@
+.container{
+
+    width: 1250px;
+    height: 550px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    display: flex;
+    
+}
+.child2{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.child3{
+
+width: 200px;
+height: 200px;
+border: 2px solid black;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+#btn1{
+    background-color: greenyellow;
+    }
